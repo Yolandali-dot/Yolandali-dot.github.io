@@ -15,7 +15,7 @@ I earned my Bachelor's degree (with honors) in Mathematics and Applied Mathemati
 
 ---
 ## 📫 Contact Me
-- 📧 Email: your.email@example.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📧 Email: yl1053@duke.edu
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yuanxin-li-50896b342)
 
 Thanks for visiting!
