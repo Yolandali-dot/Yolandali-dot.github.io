@@ -1,7 +1,50 @@
-title: "Yuanxin (Yolanda) Li"
-description: "Data Analyst | Quant Researcher | Risk Modeler"
-author: "Yuanxin Li"
-theme: jekyll-theme-minimal
+title: "Yuanxin Li"
 email: yl1053@duke.edu
-linkedin_username: yuanxin-li-50896b342
-show_downloads: false
+description: >- 
+  Data Analyst | Quantitative Researcher | Risk Modeler
+baseurl: ""
+url: "https://yolandali-dot.github.io"
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name   : "Yuanxin (Yolanda) Li"
+  avatar : "/assets/images/profile.jpg"
+  bio    : "MS at Duke | Quant Researcher | Data Enthusiast"
+  location: "Durham, NC"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/yuanxin-li-50896b342/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:yl1053@duke.edu"
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+
