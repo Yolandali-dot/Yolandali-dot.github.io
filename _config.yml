@@ -4,7 +4,8 @@ description: >-
   Data Analyst | Quantitative Researcher | Risk Modeler
 baseurl: ""
 url: "https://yolandali-dot.github.io"
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-cayman
+
 
 plugins:
   - jekyll-feed
