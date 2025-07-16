@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Home"
+---
+
 # Yuanxin (Yolanda) Li  
 *Data Analyst | Quantitative Researcher | Risk Modeler*
 
