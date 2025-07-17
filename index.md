@@ -3,24 +3,22 @@ layout: default
 title: "Home"
 ---
 
-# Yuanxin (Yolanda) Li  
-*Data Analyst | Quantitative Researcher | Risk Modeler*
+# 👋 Hi, I'm Yuanxin (Yolanda) Li
 
-I’m a data analyst and quantitative researcher passionate about building impactful, intelligent systems at the intersection of finance, machine learning, and risk modeling. I recently completed my Master’s degree in Quantitative Management: Business Analytics at Duke University’s Fuqua School of Business, where I focused on statistical modeling, data infrastructure, and decision analytics.
+Welcome to my GitHub homepage! I’m a data analyst and quantitative researcher passionate about building intelligent solutions in finance and risk.
 
-Previously, I worked across fintech, securities, and tech firms including **Ping An Technology**, **Guosen Securities**, and **Bytedance**, where I built and deployed scalable machine learning models for asset pricing, marketing optimization, and e-commerce risk detection.
-
-I earned my Bachelor's degree (with honors) in Mathematics and Applied Mathematics from Shanghai University of Finance and Economics, with a strong theoretical foundation in probability theory, stochastic processes, and differential equations.
+🔗 [About Me](about) • [Projects](projects)
 
 ---
 
-## 🔧 Skills & Tools
+## 🚀 Featured Projects
 
-`Python`, `SQL`, `Spark`, `Power BI`, `Tableau`, `XGBoost`, `Random Forest`, `MATLAB`, `Excel VBA`, `Git`, `Bloomberg Terminal`
+### 📈 Stock Price Prediction with LSTM  
+Built an LSTM model to forecast S&P 500 stock trends based on 5 years of OHLCV data.  
+> Tools: Python, Keras, TensorFlow
 
----
-## 📫 Contact Me
-- 📧 Email: yl1053@duke.edu
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yuanxin-li-50896b342)
+### 💼 Markowitz Portfolio Optimization  
+Applied mean-variance optimization to construct efficient portfolios with 15% expected return.  
+> Tools: MATLAB, Excel VBA, Power BI
 
-Thanks for visiting!
+👉 View all: [Projects](projects)
