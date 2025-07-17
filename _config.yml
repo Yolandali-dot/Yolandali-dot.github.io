@@ -5,6 +5,21 @@ theme: jekyll-theme-cayman
 email: yl1053@duke.edu
 linkedin_username: yuanxin-li-50896b342
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+
+
 nav:
   - title: "Home"
     url: /
@@ -12,4 +27,6 @@ nav:
     url: /about
   - title: "Projects"
     url: /projects
+
+
 
