@@ -4,3 +4,12 @@ author: "Yuanxin Li"
 theme: jekyll-theme-cayman
 email: yl1053@duke.edu
 linkedin_username: yuanxin-li-50896b342
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "Projects"
+    url: /projects
+
