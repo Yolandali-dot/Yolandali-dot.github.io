@@ -11,7 +11,7 @@ Welcome to my GitHub homepage! I’m a data analyst and quantitative researcher 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 📈 Stock Price Prediction with LSTM  
 Built an LSTM model to forecast S&P 500 stock trends based on 5 years of OHLCV data.  
